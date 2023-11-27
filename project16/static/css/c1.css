@@ -1,0 +1,17 @@
+body
+{
+    background-color: yellow;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; 
+    color: red; 
+}
+h1
+{
+    color: orange;
+    background-color: black;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif ;
+}
+img
+{
+    height: 300px;
+    width: 200px;
+}
